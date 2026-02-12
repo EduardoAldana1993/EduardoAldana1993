@@ -28,7 +28,7 @@
 ---
 
 <details>
-    <summary>Más sobre mí</summary>
+    <summary>Más sobre mí:</summary>
     <p>
         Soy un estudiante autodidacta con formación complementaria en plataformas como TripleTen. 
         Me caracterizo por ser observador, disciplinado y orientado a resultados.
@@ -41,3 +41,30 @@
         <li>🚀 Interesado en nuevas tendencias tecnológicas y ciencia de datos</li>
     </ul>
 </details>
+
+## 🚀Proyectos Interesantes:
+
+### 📊Analisis de Tendencias:
+Proyecto donde realicé limpieza de datos, análisis exploratorio (EDA) y visualización utilizando Pandas, Matplotlib y vimos cuales serian los videojuegos en tendencia para el proximo año.
+
+<p>
+  <a href="https://github.com/EduardoAldana1993/Analisis-para-ICE-Video-juegos-" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Proyecto-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎯Analisis de Trabajadores Ineficaces:
+Este proyecto marcó un hito en mi formación, ya que fue mi proyecto final en TripleTen y me permitió aplicar de manera integral mis conocimientos en análisis de datos.
+
+Desarrollé un análisis exploratorio de datos (EDA), realizando limpieza, transformación y visualización con Python (Pandas). Complementé el análisis utilizando SQL para extraer información adicional y crear nuevas tablas optimizadas, manteniendo intacta la base de datos original.
+
+El resultado fue un conjunto de datos más estructurado y listo para la toma de decisiones.
+
+<p>
+  <a href="https://github.com/EduardoAldana1993/Analisis-de-Trabajadores-Ineficaces" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Proyecto-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
