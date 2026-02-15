@@ -40,6 +40,15 @@
         <li>📚 Aprendiendo constantemente: Python | SQL | Algoritmos | Análisis Exploratorio de Datos</li>
         <li>🚀 Interesado en nuevas tendencias tecnológicas y ciencia de datos</li>
     </ul>
+    <p>
+        Technical skills:
+        
+![Python](https://img.shields.io/badge/PYTHON-2C6EBE?style=for-the-badge&labelColor=1E3A5F&color=2C6EBE)
+![Power BI](https://img.shields.io/badge/Power_BI-66A3D2?style=for-the-badge&labelColor=1F4E79&color=66A3D2)
+![SQL](https://img.shields.io/badge/SQL-2E8B57?style=for-the-badge&labelColor=145A32&color=2E8B57)
+![Tableau](https://img.shields.io/badge/TABLEAU-3CB371?style=for-the-badge&labelColor=1D6F42&color=3CB371)
+![Microsoft Excel](https://img.shields.io/badge/MICROSOFT_EXCEL-2E8B57?style=for-the-badge&labelColor=145A32&color=2E8B57)
+    </p>
 </details>
 
 ## 🚀Proyectos Interesantes:
