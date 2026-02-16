@@ -23,6 +23,9 @@
     <a href="https://www.linkedin.com/in/jose-eduardo-aldana-rivera-788432300" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Badge LinkedIn" />
     </a>
+    <a href="https://eduardoaldana1993.github.io/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/-Portafolio-00775?logo=linkedin&style=for-the-badge&logoColor=white" alt="Badge LinkedIn" />
+    </a>
 </p>
 
 ---
@@ -30,12 +33,12 @@
 <details>
     <summary>Más sobre mí:</summary>
     <p>
-        Soy un estudiante autodidacta con formación complementaria en plataformas como TripleTen. 
+        Soy un analista autodidacta con formación complementaria en plataformas como TripleTen. 
         Me caracterizo por ser observador, disciplinado y orientado a resultados.
         Actualmente participo en proyectos de código abierto para fortalecer mis conocimientos y ganar experiencia práctica.
     </p>
     <ul>
-        <li>🎓 Estudiante de Data Analytics en TripleTen</li>
+        <li>🎓 Data Analyst en TripleTen</li>
         <li>📊 Enfocado en análisis de datos y mejora de procesos</li>
         <li>📚 Aprendiendo constantemente: Python | SQL | Algoritmos | Análisis Exploratorio de Datos</li>
         <li>🚀 Interesado en nuevas tendencias tecnológicas y ciencia de datos</li>
