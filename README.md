@@ -42,7 +42,8 @@
     <li>🚀 Interesado en nuevas tendencias tecnológicas y ciencia de datos</li>
 </ul>
 ---
-        Technical skills:
+
+Technical skills:
         
 ![Python](https://img.shields.io/badge/PYTHON-2C6EBE?style=for-the-badge&labelColor=1E3A5F&color=2C6EBE)
 ![Power BI](https://img.shields.io/badge/Power_BI-66A3D2?style=for-the-badge&labelColor=1F4E79&color=66A3D2)
