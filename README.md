@@ -29,21 +29,19 @@
 </p>
 
 ---
+<p>
+    Soy un analista autodidacta con formación complementaria en plataformas como TripleTen. 
+    Me caracterizo por ser observador, disciplinado y orientado a resultados.
+    Actualmente participo en proyectos de código abierto para fortalecer mis conocimientos y ganar experiencia práctica.
+</p>
 
-<details>
-    <summary>Más sobre mí:</summary>
-    <p>
-        Soy un analista autodidacta con formación complementaria en plataformas como TripleTen. 
-        Me caracterizo por ser observador, disciplinado y orientado a resultados.
-        Actualmente participo en proyectos de código abierto para fortalecer mis conocimientos y ganar experiencia práctica.
-    </p>
-    <ul>
-        <li>🎓 Data Analyst en TripleTen</li>
-        <li>📊 Enfocado en análisis de datos y mejora de procesos</li>
-        <li>📚 Aprendiendo constantemente: Python | SQL | Algoritmos | Análisis Exploratorio de Datos</li>
-        <li>🚀 Interesado en nuevas tendencias tecnológicas y ciencia de datos</li>
-    </ul>
-    <p>
+<ul>
+    <li>🎓 Data Analyst en TripleTen</li>
+    <li>📊 Enfocado en análisis de datos y mejora de procesos</li>
+    <li>📚 Aprendiendo constantemente: Python | SQL | Algoritmos | Análisis Exploratorio de Datos</li>
+    <li>🚀 Interesado en nuevas tendencias tecnológicas y ciencia de datos</li>
+</ul>
+---
         Technical skills:
         
 ![Python](https://img.shields.io/badge/PYTHON-2C6EBE?style=for-the-badge&labelColor=1E3A5F&color=2C6EBE)
