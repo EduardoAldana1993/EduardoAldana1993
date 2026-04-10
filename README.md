@@ -41,6 +41,7 @@
     <li>📚 Aprendiendo constantemente: Python | SQL | Algoritmos | Análisis Exploratorio de Datos</li>
     <li>🚀 Interesado en nuevas tendencias tecnológicas y ciencia de datos</li>
 </ul>
+
 ---
 
 Technical skills:
