@@ -1,4 +1,6 @@
-<img src="./.github/assets/images/topo_readme.gif" alt="Arte animado estilo matrix con logo MF (Matheus Felipe) para el encabezado del README" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EduardoAldana1993/EduardoAldana1993/main/banner.jpeg" width="100%" />
+</p>
 
 <h2 align="center">
     ¡Hola! 👋
